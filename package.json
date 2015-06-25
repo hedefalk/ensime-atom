@@ -4,7 +4,7 @@
   "activationCommands": {
     "atom-workspace": "ensime:start"
   },
-  "version": "0.11.0",
+  "version": "0.12.0",
   "description": "Ensime integration for atom",
   "repository": "https://github.com/hedefalk/atom-ensime",
   "license": "MIT",
