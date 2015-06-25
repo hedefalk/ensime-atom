@@ -6,7 +6,7 @@
   },
   "version": "0.12.0",
   "description": "Ensime integration for atom",
-  "repository": "https://github.com/hedefalk/atom-ensime",
+  "repository": "https://github.com/ensime/ensime-atom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
