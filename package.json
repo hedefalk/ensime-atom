@@ -1,7 +1,7 @@
 {
   "name": "Ensime",
   "main": "./lib/ensime",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "description": "Ensime integration for atom",
   "repository": "https://github.com/ensime/ensime-atom",
   "license": "MIT",
